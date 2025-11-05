@@ -150,7 +150,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             <td align="center">
                 <a href="https://github.com/RaghavAgrawal-1">
                     <img src="https://avatars.githubusercontent.com/u/215561009?v=4" width="100px;"
-                        alt="RaghavAgrawal-1" />
+                        alt="Raghav Agrawal" />
                     <br />
                     <sub>
                         <b>Raghav Agrawal</b>
